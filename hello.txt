@@ -13,5 +13,6 @@ hello,world git
 hello,world git
 hello,world git
 hello,world git
-hello,world git
-hello,world git hot-fix first
+=======
+hello,world git master test
+>>>>>>> hot-fix
